@@ -3,6 +3,7 @@
 
 int main()
 {
+    // ---- les presidents ----
     int numPres = 0;
     printf("Entrer le nombre de Presidents tu veux : ");
     while(numPres < 5){
@@ -20,10 +21,6 @@ int main()
     }
 
     system("cls");
-    printf("\n       ****** les presidents ******");
-    for(int i = 0; i < numPres; i++){
-        printf("\nLe president numero %d est : %s.", i+1, presidents[i]);
-    }
-    printf("\n           ****** ****** ******");
+
     return 0;
 }
