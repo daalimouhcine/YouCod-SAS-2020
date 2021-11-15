@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636964636 source:c:\users\youcode\desktop\my-index\projetsas-2020\main.c
+	<stdio.h>
+	<stdlib.h>
+
