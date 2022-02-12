@@ -64,7 +64,6 @@ int main()
 
     do{
 
-
         for(int i = 0 ; i < numPres; i++){
             votes[i] = 0;
         }
